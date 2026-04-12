@@ -48,3 +48,5 @@ eval "$(starship init zsh)"
 
 # --- zoxide (smart cd) ---
 eval "$(zoxide init zsh)"
+export PATH="/Applications/Hyper.app/Contents/Resources/bin:$PATH"
+eval "$(zoxide init zsh)"
