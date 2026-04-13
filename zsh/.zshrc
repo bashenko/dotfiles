@@ -50,3 +50,4 @@ eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 export PATH="/Applications/Hyper.app/Contents/Resources/bin:$PATH"
 eval "$(zoxide init zsh)"
+figlet -f slant "Bashenko" | lolcat

@@ -1,0 +1,10 @@
+theme = Catppuccin Mocha
+font-family = JetBrainsMono Nerd Font
+font-size = 14
+window-padding-x = 12
+window-padding-y = 8
+cursor-style = bar
+shell-integration-features = no-cursor
+background-opacity = 0.95
+macos-titlebar-style = hidden
+command = /bin/zsh --login
